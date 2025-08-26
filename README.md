@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/dario-scilipoti-279121254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dario-scilipoti-279121254" height="30" width="40" /></a>
 <a href="https://fb.com/darioscili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darioscili" height="30" width="40" /></a>
 <a href="https://instagram.com/darioscili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darioscili" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/darioscili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darioscili" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@darioscili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darioscili" height="30" width="40" /></a>
 <a href="https://discord.gg/darioscili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="darioscili" height="30" width="40" /></a>
 </p>
 
