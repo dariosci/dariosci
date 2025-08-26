@@ -2,7 +2,6 @@
 <h3 align="center">Soy estudiante de la Tecnicatura en Programación Universitaria de la UTN - Regional San Rafael</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dariosci&label=Profile%20views&color=0e75b6&style=flat" alt="dariosci" /> </p>
-<p align="left"> <a href="https://twitter.com/darosc" target="blank"><img src="https://img.shields.io/twitter/follow/darosc?logo=twitter&style=for-the-badge" alt="darosc" /></a> </p>
 
 <h3 align="left">Mis Redes:</h3>
 <p align="left">
