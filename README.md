@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dariosci&label=Profile%20views&color=0e75b6&style=flat" alt="dariosci" /> </p>
 <p align="left"> <a href="https://twitter.com/darosc" target="blank"><img src="https://img.shields.io/twitter/follow/darosc?logo=twitter&style=for-the-badge" alt="darosc" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mis Redes:</h3>
 <p align="left">
 <a href="https://twitter.com/darosc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darosc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dario-scilipoti-279121254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dario-scilipoti-279121254" height="30" width="40" /></a>
