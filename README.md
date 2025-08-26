@@ -18,7 +18,7 @@
 
 ---
 ![Snake animation](https://github.com/dariosci/dariosci/blob/output/github-contribution-grid-snake-dark.svg)
---- 
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dariosci&theme=dark&background=000000&show_icons=true&locale=en" alt="dariosci" />&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariosci&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="dariosci" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dariosci&theme=dark&background=000000&" alt="dariosci" /></p>
