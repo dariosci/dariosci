@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Dario Scilipoti</h1>
-<h3 align="center">Soy estudiante de la Tecnicatura en Programación Universitaria de la UTN - Regional San Rafael</h3>
+<h3 align="center">Estudiante de la Tecnicatura en Programación Universitaria de la UTN - Regional San Rafael</h3>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=dariosci&label=Profile%20views&color=0e75b6&style=flat" alt="dariosci" />  </p>
 
