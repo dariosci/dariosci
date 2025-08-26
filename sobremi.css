@@ -1,0 +1,72 @@
+.redes-sobremi {
+  justify-content: right;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  flex-direction: row;
+  /* font-size: 0.9em;
+  color: #666; /* Color de texto más tenue para el periodo */
+  /*margin-bottom: 5px; */
+}
+
+.icon {
+  position: relative;
+  width: 2rem;
+  height: 2rem;
+  margin: 0.25rem;
+  transition: all 0.8s;
+  cursor: pointer;
+}
+
+.icon:hover i {
+  color: white;
+}
+
+.icon:hover {
+  color: white;
+  background-color: #db804b;
+  box-shadow: 0 0 20px #8a5005;
+}
+.icon:hover:nth-child(2) {
+  color: white;
+  background-color: #1877f2;
+  box-shadow: 0 0 20px #1877f2;
+}
+
+.icon:hover:nth-child(3) {
+  background-color: #24a005;
+  box-shadow: 0 0 20px #25d366;
+}
+
+.icon:hover:nth-child(4) {
+  background-color: #1da1f2;
+  box-shadow: 0 0 20px #1da1f2;
+}
+
+.icon:hover:nth-child(5) {
+  background-color: #1773ac;
+  box-shadow: 0 0 20px #1da1f2;
+}
+
+.icon:hover:nth-child(6) {
+  background-color: #000000;
+  box-shadow: 0 0 20px #474747;
+}
+
+.icon i {
+  color: #000000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1rem;
+}
+
+svg circle {
+  stroke-dasharray: 150;
+  transition: all 0.2s ease-in-out;
+}
+
+.icon:hover circle {
+  stroke-dasharray: 220;
+}
