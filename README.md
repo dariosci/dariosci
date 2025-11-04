@@ -18,6 +18,7 @@
 
 ---
 ![Snake animation](https://raw.githubusercontent.com/dariosci/dariosci/8b39ce6db0abccdb41a49484fe7bbfe11cb4852f/github-snake-dark.svg)
+![snake gif](https://github.com/dariosci/dariosci/blob/output/github-snake-dark.svg)
 ---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dariosci&theme=dark&background=000000&show_icons=true&locale=en" alt="dariosci" />&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariosci&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="dariosci" /></p>
