@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=120&section=header&text=Darío%20Scilipoti&fontSize=30&fontColor=ffffff" />
+</p>
+
 # 👋 Hola, soy Darío Scilipoti
 
 ### 💻 Backend Developer | Sistemas de Trazabilidad | Redes
@@ -24,7 +28,7 @@ Actualmente estoy desarrollando **AgroTrace**, un sistema completo de trazabilid
 ## 🐍 Actividad
 
 <p align="center">
-  <img src="https://dariosci.github.io/dariosci/ocean.gif" />
+  <img src="https://dariosci.github.io/dariosci/github-snake-dark.svg" />
 </p>
 
 ---
@@ -32,12 +36,37 @@ Actualmente estoy desarrollando **AgroTrace**, un sistema completo de trazabilid
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dariosci&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosci&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=dariosci&show_icons=true&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=dariosci&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dariosci&show_icons=true&hide_border=true" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosci&layout=compact&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosci&layout=compact&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosci&layout=compact&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dariosci&theme=tokyonight&hide_border=true"/>
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=dariosci&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://streak-stats.demolab.com?user=dariosci&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://streak-stats.demolab.com?user=dariosci&hide_border=true" />
+  </picture>
 </p>
 
 ---
