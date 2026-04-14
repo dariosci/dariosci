@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=120&section=header&text=Darío%20Scilipoti&fontSize=30&fontColor=ffffff" />
-</p>
-
 # 👋 Hola, soy Darío Scilipoti
 
 ### 💻 Backend Developer | Sistemas de Trazabilidad | Redes
