@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=120&section=header&text=Darío%20Scilipoti&fontSize=30&fontColor=ffffff" />
+</p>
+
 # 👋 Hola, soy Darío Scilipoti
 
 ### 💻 Backend Developer | Sistemas de Trazabilidad | Redes
@@ -8,23 +12,37 @@
 
 Soy estudiante de la Tecnicatura en Programación Universitaria (UTN) y me enfoco en el desarrollo de sistemas reales orientados a producción.
 
-Actualmente estoy desarrollando **AgroTrace**, un sistema completo de trazabilidad para empaques frutícolas, abarcando desde la recepción hasta el despacho final.
+Actualmente estoy desarrollando **AgroTrace**, un sistema completo de trazabilidad para empaques frutícolas.
 
-También tengo experiencia en redes, infraestructura y configuración de sistemas.
+---
+
+## 🚀 Ahora
+
+* 🔧 Desarrollando **AgroTrace** (FastAPI + PostgreSQL)
+* 📊 Optimizando trazabilidad y procesos productivos
+* 🌐 Profundizando en redes e infraestructura
+* ⚙️ Automatizando con GitHub Actions
 
 ---
 
 ## 🐍 Actividad
 
-![snake](https://dariosci.github.io/dariosci/github-snake-dark.svg)
+<p align="center">
+  <img src="https://dariosci.github.io/dariosci/ocean.gif" />
+</p>
 
 ---
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dariosci&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariosci&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Streak](https://streak-stats.demolab.com?user=dariosci&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dariosci&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosci&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dariosci&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
