@@ -22,11 +22,9 @@ También tengo experiencia en redes, infraestructura y configuración de sistema
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dariosci\&show_icons=true\&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariosci\&layout=compact\&theme=dark)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=dariosci\&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dariosci&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariosci&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Streak](https://streak-stats.demolab.com?user=dariosci&theme=tokyonight&hide_border=true)
 
 ---
 
