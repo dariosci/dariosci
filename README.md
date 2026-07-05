@@ -1,6 +1,6 @@
 # 👋 Hola, soy Darío Scilipoti
 
-### 💻 Backend Developer | Sistemas de Trazabilidad | Redes
+### 💻 FullStack Developer | Sistemas de Trazabilidad | Redes
 
 ---
 
